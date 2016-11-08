@@ -8,7 +8,7 @@
 
 ### Workflow in NGS analysis
 
-![](https://github.com/jiankaiwang/NextGenerationSequencing/blob/master/doc/image/20140318_finalflow.png)
+![](https://github.com/jiankaiwang/NextGenerationSequencing/blob/master/doc/images/20140318_finalflow.png)
 
 ### Description
 
